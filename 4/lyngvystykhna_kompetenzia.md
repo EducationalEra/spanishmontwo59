@@ -14,34 +14,34 @@
             </tr>
             <tr>
                 <td width="25%" style="vertical-align:top !important;">
-Повсякденні дії.<br>
-Види дозвілля. <br>
-Кореспонденція. <br>
-Літературні жанри. <br>
-Обладнання та послуги бібіліотеки. <br>
-Періодичні видання. <br>
-Музичні жанри / інструменти. <br>
-Географічні поняття. <br>
-Країни. <br>
-Національності.<br>
-Типи шкіл.<br>
-Назви навчальних  кімнат та шкільного обладнання</td>
+Щоденні справи.<br>
+Предмети одягу.<br>
+Види закладів харчування.<br>
+Види обробки продуктів харчування.<br>
+Назви страв.<br>
+Види ЗМІ.<br>
+Назви географічних об’єктів.<br>
+Типи шкіл</td>
 <td width="50%" style="vertical-align:top !important;">
 <b>Дієслово:</b><br>
-Active and Passive Vоісе.<br>
-Модальні дієслова: will, might, shall, should, let's, could.<br>
-<b>Займенник:</b><br>
-неозначені.<br>
+правильні, неправильні форми дієслів у Presente de Indicativo, Pretörito Perfecto, Futuro Simple, Preterito Indefinido, Preterito Imperfecto.<br>
+<b>Іменник:</b> <br>
+рід, число.<br>
 <b>Прикметник:</b><br>
-в структурах ‘as... as', ‘so...as' зі словами rather, almost, quite. <br>
-<b>Прислівник:</b> <br>
-місця (everywhere, anywhere, somewhere, nowhere). <br>
-<b>Числівник:</b><br> 
-кількісні до 1 000 000.<br>
-<b>Adverbial Clause</b> with 'when'. <br>
-<b>Pro-clause</b> with 'so', 'not' (I think so. I hope not.)
+рід, число.<br>
+<b>Прийменник:</b><br>
+місця, напрямку, часу.<br>
+<b>Прислівник:</b><br>
+способу дії.<br>
+<b>Артикль:</b> <br>
+означений, неозначений.<br>
+<b>Числівник:</b><br>
+кількісні від 1 000 000. Порядкові (20°-50°).<br>
+<b>Сполучники:</b> <br>
+о (u — перед словами на о, ho)
 </td>
-<td width="25%" style="vertical-align:top !important;">Особливості інтонації складносурядних та складнопідрядних речень</td>
+<td width="25%" style="vertical-align:top !important;">Інтонація речень з однорідними членами. Емфатичний наголос
+</td>
             </tr>
 </table>
 
